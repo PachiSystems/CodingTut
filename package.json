@@ -1,0 +1,22 @@
+{
+  "name": "chip8emulatorcourse",
+  "version": "1.0.0",
+  "description": "Software to emulate the CHIP-8 in JavaScript",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PachiSystems/CodingTut.git"
+  },
+  "author": "Brian Milton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PachiSystems/CodingTut/issues"
+  },
+  "homepage": "https://github.com/PachiSystems/CodingTut#readme"
+}
